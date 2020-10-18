@@ -3,7 +3,7 @@ Create scenarios to better understand the workings of git
 
 ## Scenarios
 
-### Simulate two developers using the same branch
+## Simulate two developers using the same branch
 
 ## Two developers using their own branch
 We always create two branches from the original, do some changes and merge them back to original branch
